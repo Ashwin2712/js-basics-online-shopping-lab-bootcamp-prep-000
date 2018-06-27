@@ -77,4 +77,8 @@ function placeOrder(cardNumber) {
     cart = []
     return charged
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6b96d282ea7084999503bb999e992ed6e5e0697a
